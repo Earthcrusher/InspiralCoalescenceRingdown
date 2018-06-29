@@ -1,0 +1,23 @@
+// DM Environment file for inspiral.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "code\world.dm"
+#include "code\_defines\chat.dm"
+#include "code\client\_client.dm"
+#include "code\client\client_command.dm"
+#include "code\db\_db.dm"
+#include "code\mob\new_player.dm"
+// END_INCLUDE
+

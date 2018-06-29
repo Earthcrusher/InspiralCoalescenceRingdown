@@ -1,0 +1,1 @@
+#define to_chat(foo, bar) foo << bar
