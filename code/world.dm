@@ -1,6 +1,4 @@
-/world
-	fps = 25
-	mob = /mob/new_player
+#define DEBUG
 
 /world/New()
 	..()
